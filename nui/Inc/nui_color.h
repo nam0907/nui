@@ -1,0 +1,21 @@
+#ifndef __NUI_COLOR_H__
+#define __NUI_COLOR_H__
+
+#define NUI_COLOR_BLACK								0x00000000
+#define NUI_COLOR_RED									0x00FF0000
+#define NUI_COLOR_BLUE									0x000000FF
+#define NUI_COLOR_LIME									0x0000FF00
+#define NUI_COLOR_GREEN								0x00008000
+#define NUI_COLOR_CYAN									0x0000FFFF
+#define NUI_COLOR_WHITE								0x00FFFFFF
+#define NUI_COLOR_YELLOW								0x00FFFF00
+#define NUI_COLOR_NAVY									0x00000080
+#define NUI_COLOR_MAROON								0x00800000
+#define NUI_COLOR_GRAY									0x00808080
+#define NUI_COLOR_MAGENTA							0x00FF00FF
+#define NUI_COLOR_SILVER								0x00C0C0C0
+#define NUI_COLOR_OLIVE								0x00808000
+#define NUI_COLOR_PURPLE								0x00800080
+#define NUI_COLOR_TEAL									0x00008080
+
+#endif
