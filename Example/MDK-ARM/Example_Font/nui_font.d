@@ -1,0 +1,12 @@
+example_font\nui_font.o: ..\..\src\core\src\nui_font.c
+example_font\nui_font.o: ..\..\src\core\src\../inc/nui_font.h
+example_font\nui_font.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+example_font\nui_font.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+example_font\nui_font.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+example_font\nui_font.o: ..\..\src\nui_conf.h
+example_font\nui_font.o: ..\..\src\core/inc/nui_default_conf.h
+example_font\nui_font.o: ..\..\src\core\src\../inc/nui_port.h
+example_font\nui_font.o: ..\..\src\core\src\../inc/nui_draw.h
+example_font\nui_font.o: ..\..\src\core\src\../../int/nui_draw_int.h
+example_font\nui_font.o: ..\..\src\core\src\../../int/nui_font_int.h
+example_font\nui_font.o: ..\..\src\core\src\../../int/nui_font_def_int.h

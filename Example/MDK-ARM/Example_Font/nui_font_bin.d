@@ -1,0 +1,11 @@
+example_font\nui_font_bin.o: ..\..\src\core\src\nui_font_bin.c
+example_font\nui_font_bin.o: ..\..\src\core\src\../inc/nui_font_bin.h
+example_font\nui_font_bin.o: ..\..\src\nui_conf.h
+example_font\nui_font_bin.o: ..\..\src\core/inc/nui_default_conf.h
+example_font\nui_font_bin.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+example_font\nui_font_bin.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+example_font\nui_font_bin.o: ..\..\src\core\src\../inc/nui_font.h
+example_font\nui_font_bin.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+example_font\nui_font_bin.o: ..\..\src\core\src\../inc/nui_stream.h
+example_font\nui_font_bin.o: ..\..\src\core\src\../../int/nui_font_bin_int.h
+example_font\nui_font_bin.o: ..\..\src\core\src\../inc/nui_binary_reader.h

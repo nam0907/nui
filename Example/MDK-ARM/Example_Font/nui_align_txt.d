@@ -1,0 +1,13 @@
+example_font\nui_align_txt.o: ..\..\..\..\..\..\src\align\src\nui_align_txt.c
+example_font\nui_align_txt.o: ..\..\..\..\..\..\src\align\src\../inc/nui_align_txt.h
+example_font\nui_align_txt.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+example_font\nui_align_txt.o: ..\..\..\..\..\..\src\align\src\../inc/../../align/inc/nui_align_def.h
+example_font\nui_align_txt.o: ..\..\..\..\..\..\src\align\src\../inc/../../wdg/inc/nui_wdg_def.h
+example_font\nui_align_txt.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+example_font\nui_align_txt.o: ..\..\..\..\..\..\src\align\src\../inc/../../wdg/inc/../../core/inc/nui_font.h
+example_font\nui_align_txt.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+example_font\nui_align_txt.o: ../../../../../../src/nui_conf.h
+example_font\nui_align_txt.o: ../../../../../../src/core/inc/nui_default_conf.h
+example_font\nui_align_txt.o: ..\..\..\..\..\..\src\align\src\../inc/../../core/inc/nui_draw.h
+example_font\nui_align_txt.o: ..\..\..\..\..\..\src\align\src\../inc/../../int/nui_font_int.h
+example_font\nui_align_txt.o: ..\..\..\..\..\..\src\align\src\../../int/nui_font_def_int.h
