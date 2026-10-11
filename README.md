@@ -1,7 +1,7 @@
 🌐 Language:
 - English (current)
 - [Tiếng Việt](README_vi.md)
-- [Documention](docs/web/html/index.html)
+- [Documention]([docs/web/html/index.html](https://nam0907.github.io/nui/))
 # NUI - Lightweight Embedded UI Library
 
 ## 📌 Introduction
